@@ -41,7 +41,7 @@
   <br>
 <p id="tecnologias">  📦 Desenvolvimento </p>
 
-![JavaScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript1)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
 
 ![REACT](http://img.shields.io/badge/REACT-000000?style=flat&logo=react)
 
