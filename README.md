@@ -1,46 +1,79 @@
-# Getting Started with Create React App
+##### Hi, I'm Antonio Arieiro I'm Dev Jr. :boy: : 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h1 align="center">ContetFull API</h1>
+🚀 Descrição do Projeto
+<p align="center">:open_file_folder: Projeto Utilizando TypeScript | React | ContextAPI | Hooks | Router | Firebase</p>
+<p align="center">:open_file_folder: Projeto Desenvolvido juntamente a edição do NLW</p>
+  <br>
+  <br>
+ <p align="center">
+ <a href="#instalacao">Instalação</a> • 
+ <a href="#objetivo">Objetivo</a> •
+ <a href="#funcionalidades">Funcionalidades</a> • 
+ <a href="#tecnologias">Tecnologias</a> • 
+ <a href="#autor">Autor</a>
+</p>
+  <br>
+  <p id="objetivo"> O projeto Consiste em uma Sala virtual onde usuarios tiram duvidas e interagem por perguntas e respostas</p>
+  <br>
+  <hr>
+  <p id="func">
 
-## Available Scripts
+<p id="funcionalidades">  Funcionalidades Já Implementadas:
+	<ul>
+		<li> [ X ] Criar uma sala </li>
+		<li> [ X ] Conectar em uma sala existente </li>
+		<li> [ X ] Validar o usuario </li>
+	</ul>
+</p>
 
-In the project directory, you can run:
+<hr>
+  <p id="instalacao">
+	🔧 <b>Instalação</b>
+	<p>Primeiro Clone o Proejto </p>
+	<p>Depois em seu terminal va ate a pasta content_test </p>
+	<p>Apos isso instale as Dependencias do Projeto</p>
+	<p><b>npm install</b></p>
+  <p><b>altere os dados da pasta service para os dados do seu firebase</b></p>
+	<p>Apos isso inicie </p>
+	<p><b>npm start</b></p>
+  </p>
+  <br>
+<p id="tecnologias">  📦 Desenvolvimento </p>
 
-### `npm start`
+![JavaScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript1)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+![REACT](http://img.shields.io/badge/REACT-000000?style=flat&logo=react)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+![Router](https://img.shields.io/badge/React%20Router-000000?style=flat&logo=reactrouter)
 
-### `npm test`
+![HTML](https://img.shields.io/badge/-HTML-000000?style=flat&logo=html)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![SCSS](https://img.shields.io/badge/SCSS-000000?style=flat&logo=sass)
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<h4 align="center"> 
+	🚧  Projeto ainda deve ser Implementado  🚀 Em construção...  🚧
+</h4>
 
-### `npm run eject`
+Em Desenvolvimento
+- [ ] Criação da tela das Salas
+- [ ] Criação da tela de perguntas
+- [ ] Criação da interação com as perguntas
+- [ ] Opção para deslogar da conta google
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+<br>
+<p id="autor"></p>
+ ✒️ Autor
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-arieiro-50a9301b2/)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+--
+⌨️ com ❤️ por (https://github.com/antonioarieiro) 😊
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+-🎓:computer: student computer science from UFT - Palmas-TO
+<br>
+-🎓:computer: software engineer student from TRYBE -T8
