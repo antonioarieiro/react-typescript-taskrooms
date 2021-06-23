@@ -24,6 +24,7 @@
 		<li> [ X ] Criar uma sala </li>
 		<li> [ X ] Conectar em uma sala existente </li>
 		<li> [ X ] Validar o usuario </li>
+		<li> [ X ] Validação de sala </li>
 	</ul>
 </p>
 
