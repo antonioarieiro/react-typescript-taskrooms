@@ -67,7 +67,7 @@ export function AuthContextProvider(props: authContextProviderProps) {
         id: uid,
         name: displayName,
         avatar:photoURL,
-      })
+      })p~~~
     }
   }
   return (

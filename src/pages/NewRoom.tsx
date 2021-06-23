@@ -20,6 +20,7 @@ export function NewRoom() {
       </aside>
       <main>
         <div className="main-content">
+          <h1>{user}</h1>
           <img src={logo} alt="Logo"/>
           <h2>Criar uma Nova sala</h2>
           <form>
